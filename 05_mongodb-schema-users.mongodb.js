@@ -2,13 +2,13 @@
 // Use Ctrl+Space inside a snippet or a string literal to trigger completions.
 
 // The current database to use.
-use('my_ecommerce_db');
+use('myecommerce-db');
 
 // Create a new document in the collection.
-db.getCollection('customers ').insertOne({
+
+db.getCollection('mycustomers').insertMany({
 
 });
-
 [
   {
     "id": 1,

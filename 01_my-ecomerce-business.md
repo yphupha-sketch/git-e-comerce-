@@ -38,4 +38,7 @@
  - random generate address of a customers canbe fake place 
  - random generate phone number
 
-
+## for make up fake feterlizer
+- random generate products id
+- random generate oriducts name
+- random generate products price

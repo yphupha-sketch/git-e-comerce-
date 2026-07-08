@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "ปุ๋ยยูเรีย 46-0-0",
+    "type": "เคมี",
+    "weight_kg": 25,
+    "price": 650,
+    "stock": 100,
+    "image_url": "https://placehold.co/300x300?text=46-0-0",
+    "description": "ปุ๋ยไนโตรเจนสูง เร่งใบและลำต้น"
+  },
+  {
+    "id": 2,
+    "name": "ปุ๋ยสูตร 15-15-15",
+    "type": "เคมี",
+    "weight_kg": 25,
+    "price": 720,
+    "stock": 80,
+    "image_url": "https://placehold.co/300x300?text=15-15-15",
+    "description": "ปุ๋ยสูตรเสมอ บำรุงทุกส่วนของพืช"
+  },
+  {
+    "id": 3,
+    "name": "ปุ๋ยอินทรีย์อัดเม็ด",
+    "type": "อินทรีย์",
+    "weight_kg": 10,
+    "price": 120,
+    "stock": 200,
+    "image_url": "https://placehold.co/300x300?text=%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C",
+    "description": "ปุ๋ยอินทรีย์อัดเม็ด ปลอดสารเคมี บำรุงดิน"
+  }
+]
