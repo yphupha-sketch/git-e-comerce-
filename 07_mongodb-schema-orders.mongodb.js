@@ -1,10 +1,7 @@
-// The current database to use.
 use('myecommerce-db');
-
-// Create a new document in the collection.
-
-db.getCollection('myfertilizers').insertMany([
-  {
+db.getCollection('myorders').deleteMany({});
+db.getCollection('myorders').insertMany([  
+    {
     "id": 1,
     "name": "ปุ๋ยยูเรีย 46-0-0",
     "type": "เคมี",
@@ -35,4 +32,4 @@ db.getCollection('myfertilizers').insertMany([
     "description": "ปุ๋ยอินทรีย์อัดเม็ด ปลอดสารเคมี บำรุงดิน"
   }
 ]);
-db.getCollection('myfertilizers').find()
+db.getCollection('myorders').find()

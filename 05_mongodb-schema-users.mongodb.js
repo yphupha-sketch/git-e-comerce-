@@ -5,11 +5,8 @@
 use('myecommerce-db');
 
 // Create a new document in the collection.
-
-db.getCollection('mycustomers').insertMany({
-
-});
-[
+db.getCollection('mycustomers').deleteMany({});
+db.getCollection('mycustomers').insertMany([
   {
     "id": 1,
     "name": "สมชาย ใจดี",
@@ -34,4 +31,5 @@ db.getCollection('mycustomers').insertMany({
     "username": "preecha",
     "password": "pass9012"
   }
-]
+]);
+db.getCollection('mycustomers').find()
