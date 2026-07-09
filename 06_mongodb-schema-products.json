@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "ปุ๋ยยูเรีย 46-0-0",
+    "type": "เคมี",
+    "weight_kg": 25,
+    "price": 650,
+    "stock": 100,
+    "image_url": "https://placehold.co/300x300?text=46-0-0",
+    "description": "ปุ๋ยไนโตรเจนสูง เร่งใบและลำต้น"
+  }
+]
